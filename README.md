@@ -8,7 +8,8 @@
 ### 🔧 Technologies & tools
 
 ![Python](https://img.shields.io/badge/Python-gray?logo=python) ![PHP](https://img.shields.io/badge/PHP-grey?logo=PHP) ![PHP](https://img.shields.io/badge/JavaScript-grey?logo=javascript) ![C#](https://img.shields.io/badge/C_Sharp-grey?logo=C) ![Java](https://img.shields.io/badge/Java-grey?)
-![.net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet) ![Docker](https://img.shields.io/badge/Docker-grey?logo=docker) ![Git](https://img.shields.io/badge/Git-grey?logo=git) ![Azure](https://img.shields.io/badge/Microsoft_Azure-grey?logo=icloud) ![Gcloud](https://img.shields.io/badge/Google_Cloud-grey?logo=googlecloud) ![Nodejs](https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs)
+![.net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
+![Docker](https://img.shields.io/badge/Docker-grey?logo=docker) ![Git](https://img.shields.io/badge/Git-grey?logo=git) ![Azure](https://img.shields.io/badge/Microsoft_Azure-grey?logo=icloud) ![Gcloud](https://img.shields.io/badge/Google_Cloud-grey?logo=googlecloud) ![Nodejs](https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs)
 
 ### 🔥 Github Stats
 ![Ricardo's Github statsss](https://github-readme-stats.vercel.app/api?username=ricardomiss&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardomiss&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomiss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
