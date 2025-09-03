@@ -7,7 +7,7 @@
 
 ### 🔧 Technologies & tools
 
-![Python](https://img.shields.io/badge/Python-gray?logo=python) ![PHP](https://img.shields.io/badge/PHP-grey?logo=PHP) ![PHP](https://img.shields.io/badge/JavaScript-grey?logo=javascript) ![C#](https://img.shields.io/badge/C_Sharp-grey?logo=C) ![Java](https://img.shields.io/badge/Java-grey?)
+![Python](https://img.shields.io/badge/Python-gray?logo=python) ![PHP](https://img.shields.io/badge/PHP-grey?logo=PHP) ![JS](https://img.shields.io/badge/JavaScript-grey?logo=javascript) ![TS](https://img.shields.io/badge/TypeScript-gray?logo=typescript) ![C#](https://img.shields.io/badge/C_Sharp-grey?logo=C) ![Java](https://img.shields.io/badge/Java-grey?)
 ![.net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
 ![Docker](https://img.shields.io/badge/Docker-grey?logo=docker) ![Git](https://img.shields.io/badge/Git-grey?logo=git) ![Azure](https://img.shields.io/badge/Microsoft_Azure-grey?logo=icloud) ![Gcloud](https://img.shields.io/badge/Google_Cloud-grey?logo=googlecloud) ![Nodejs](https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs)
 
