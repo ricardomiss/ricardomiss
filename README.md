@@ -12,4 +12,4 @@
 </p>
 
 ### 🔥 Github Stats
-![Ricardo's Github statsss](https://github-readme-stats.vercel.app/api?username=ricardomiss&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=ricardomiss&theme=dark&border_radius=25&exclude_days=Sun)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomiss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo's Github statsss](https://github-readme-stats.vercel.app/api?username=ricardomiss&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=ricardomiss&theme=tokyonight-duo&exclude_days=Sun)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomiss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
