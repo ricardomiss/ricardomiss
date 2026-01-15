@@ -15,4 +15,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ricardomiss&theme=tokyonight-duo&exclude_days=Sun)](https://git.io/streak-stats)
 
 ![Ricardo's Github stats](https://github-readme-stats-fast.vercel.app/api?username=ricardomiss&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ricardomiss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
